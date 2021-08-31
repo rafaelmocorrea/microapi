@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: shopping-cart
+  clout:
+    config:
+      uri: http://localhost:8888
